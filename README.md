@@ -11,8 +11,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=SmokyDogg)
 
 ---
-###🛠️ Языки и инструменты :
-
+###🛠️ Языки и инструменты :  
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
@@ -31,5 +30,5 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
 
 ----
-##💻 Моя статистика :
+##💻 Моя статистика :  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
