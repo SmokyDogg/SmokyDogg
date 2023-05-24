@@ -12,7 +12,6 @@
 
 ---
 ###🛠️ Языки и инструменты :  
-                 
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
