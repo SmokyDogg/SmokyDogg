@@ -1,6 +1,6 @@
 #Halo, My name is Vitalij!👋
 ---
-
+- **Я живу в Санкт-Петербурге**
 - **Я начинающий веб-разработчик**
 - **Стремлюсь к изучению чего-то нового**
 - **Мое хобби - сборка моделей автомобилей**
@@ -12,6 +12,7 @@
 
 ---
 ###🛠️ Языки и инструменты :  
+                 
 <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
@@ -31,4 +32,5 @@
 
 ----
 ##💻 Моя статистика :  
+          
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
